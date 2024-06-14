@@ -14,8 +14,11 @@ Here's a quick overview of what the project entails:
 
 # How to install:
 Clone this repository to your local machine.
+
 Open the project in NetBeans IDE.
+
 Build and run the project.
+
 Start playing against the AI opponent or another player.
 
 # Output:
